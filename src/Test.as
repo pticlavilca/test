@@ -1,13 +1,12 @@
 package {
 
+import com.javapaul.test.load.Data;
 import flash.display.Sprite;
-import flash.text.TextField;
 
+[SWF (width=800, height=600, backgroundColor=0xffFFFF, frameRate=35)]
 public class Test extends Sprite {
     public function Test() {
-        var textField:TextField = new TextField();
-        textField.text = "Hello, World";
-        addChild(textField);
+        var data = new Data();
     }
 }
 }

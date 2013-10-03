@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding?>
+<questions>
+    <question data="Mi primera pregunta es:">
+        <answer>Mi respuesta es</answer>
+        <answer>Mi respuesta puede ser</answer>
+        <answer>O tal vez</answer>
+    </question>
+    <question data="Mi segunda pregunta es:">
+        <answer>Mi segunda respuesta es</answer>
+        <answer>Mi segunda respuesta puede ser</answer>
+        <answer>O tal vez mi segunda respuesta
+        </answer>
+    </question>
+</questions>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Test" basedir="." default="message">
+
+    <property name="dist" value="out/production/test"/>
+
+   <target name="message">
+        <echo>${ant.project.name}</echo>
+   </target>
+
+    <target name="copy">
+        <copy file="config.xml" todir="${dist}" force="yes"/>
+
+    </target>
+
+</project>
