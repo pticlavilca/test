@@ -10,6 +10,7 @@ public class Test {
     private var _question:String;
     private var _alternative:Vector.<String>;
     private var _answer:Number = 0;
+    private var _isActivate:Boolean = false;
 
 
 
@@ -39,6 +40,14 @@ public class Test {
 
     public function set answer(value:Number):void {
         _answer = value;
+    }
+
+    public function get isActivate():Boolean {
+        return _isActivate;
+    }
+
+    public function set isActivate(value:Boolean):void {
+        _isActivate = value;
     }
 }
 }

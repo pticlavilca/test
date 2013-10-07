@@ -1,13 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
 <questions>
     <question data="Mi primera pregunta es:" answer="1">
-        <alterinative>Mi respuesta es</alterinative>
-        <alterinative>Mi respuesta puede ser</alterinative>
-        <alterinative>O tal vez</alterinative>
+        <alternative>Mi respuesta es 1</alternative>
+        <alternative>Mi respuesta es 2</alternative>
+        <alternative>Mi respuesta es 3</alternative>
+        <alternative>Mi respuesta es 4</alternative>
+        <alternative>Mi respuesta es 5</alternative>
+        <alternative>Mi respuesta es 6</alternative>
+    </question>
+
+    <question data="Mi segunda pregunta es:" answer="2">
+    <alternative>Mi segunda respuesta es</alternative>
+    <alternative>Mi segunda respuesta puede ser</alternative>
+    <alternative>O tal vez mi segunda respuesta</alternative>
+</question>
+
+    <question data="Mi segunda pregunta es:" answer="2">
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
     </question>
     <question data="Mi segunda pregunta es:" answer="2">
-        <alterinative>Mi segunda respuesta es</alterinative>
-        <alterinative>Mi segunda respuesta puede ser</alterinative>
-        <alterinative>O tal vez mi segunda respuesta</alterinative>
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
     </question>
+    <question data="Mi segunda pregunta es:" answer="2">
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
+    </question>
+    <question data="Mi segunda pregunta es:" answer="2">
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
+    </question>
+    <question data="Mi segunda pregunta es:" answer="2">
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
+    </question>
+    <question data="Mi segunda pregunta es:" answer="2">
+        <alternative>Mi segunda respuesta es</alternative>
+        <alternative>Mi segunda respuesta puede ser</alternative>
+        <alternative>O tal vez mi segunda respuesta</alternative>
+    </question>
+
 </questions>

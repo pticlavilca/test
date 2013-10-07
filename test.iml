@@ -2,7 +2,7 @@
 <module type="Flex" version="4">
   <component name="FlexBuildConfigurationManager" active="test">
     <configurations>
-      <configuration name="test" pure-as="true" main-class="Test" output-file="Test.swf" output-folder="$MODULE_DIR$/out/production/test" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
+      <configuration name="test" pure-as="true" main-class="Launcher" output-file="Test.swf" output-folder="$MODULE_DIR$/out/production/test" use-html-wrapper="true" wrapper-template-path="$MODULE_DIR$/html-template">
         <dependencies target-player="11.1">
           <entries>
             <entry library-name="src" library-level="project">
