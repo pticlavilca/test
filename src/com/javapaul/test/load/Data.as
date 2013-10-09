@@ -4,10 +4,7 @@ import com.javapaul.load.LoadXML;
 import com.javapaul.load.LoadXMLEvent;
 import com.javapaul.test.model.Test;
 
-
-
 import flash.events.EventDispatcher;
-
 
 public class Data extends EventDispatcher{
 

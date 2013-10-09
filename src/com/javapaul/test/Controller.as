@@ -17,7 +17,8 @@ public class Controller implements IController{
     private function handlerComplete(event:CompleteEvent):void {
 
         testVector = data.test;
-        testVector.sort(com.javapaul.util.ArrayTools.randomSort());
+        testVector.sort(com.javapaul.util.ArrayTools.shuffleVector);
+
 
         getQuestion();
     }

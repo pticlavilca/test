@@ -1,29 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b916571-310e-4bb3-8df4-1a220acfc163" name="Default" comment="" />
+    <list default="true" id="3b916571-310e-4bb3-8df4-1a220acfc163" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javapaul/test/Controller.as" afterPath="$PROJECT_DIR$/src/com/javapaul/test/Controller.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/javapaul/test/load/Data.as" afterPath="$PROJECT_DIR$/src/com/javapaul/test/load/Data.as" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.xml" afterPath="$PROJECT_DIR$/config.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/src.xml" afterPath="$PROJECT_DIR$/.idea/libraries/src.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381157772862" ignored="false" />
-    <file path="/fragment.js2" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381182089072" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381273806583" ignored="false" />
+    <file path="/fragment.js2" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280213469" ignored="false" />
     <file path="/Test.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381177603126" ignored="false" />
-    <file path="/Data.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381165802948" ignored="false" />
+    <file path="/Data.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280107882" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/.idea/workspace.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380735468909" ignored="false" />
     <file path="/LoadXML.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380731438733" ignored="false" />
     <file path="/Framework.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380731529824" ignored="false" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380735468909" ignored="false" />
     <file path="/build.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380831650842" ignored="false" />
-    <file path="/config.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381163503128" ignored="false" />
+    <file path="/config.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381196802859" ignored="false" />
     <file path="/a.dummy" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1380839468275" ignored="false" />
     <file path="/CompleteEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381164009504" ignored="false" />
-    <file path="/Controller.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381182204342" ignored="false" />
+    <file path="/Controller.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381196023215" ignored="false" />
     <file path="/IController.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381167908751" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/src/com/javapaul/event/Ready.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381175272685" ignored="false" />
     <file path="/Ready.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381175271164" ignored="false" />
-    <file path="/Launcher.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381179691872" ignored="false" />
+    <file path="/Launcher.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280210861" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/src/com/javapaul/chronometer/factorytimer/FactoryTimer.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381181025554" ignored="false" />
     <file path="$PROJECT_DIR$/../framework/src/com/javapaul/util/ArrayTools.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381181940209" ignored="false" />
-    <file path="/ArrayTools.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381181939603" ignored="false" />
+    <file path="/ArrayTools.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381196013977" ignored="false" />
+    <file path="D:/@library/framework/src/com/javapaul/util/ArrayTools.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381196014439" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/data/Data.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280128652" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/model/Book.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381279229371" ignored="false" />
+    <file path="/Book.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381279087526" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/Book.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381274780134" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/model/Chapter.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381276720951" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/model/IBook.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381276960107" ignored="false" />
+    <file path="/Chapter.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381274968238" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/Launcher.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280210861" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/book.cfg.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381278372397" ignored="false" />
+    <file path="/book.cfg.xml" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381278372715" ignored="false" />
+    <file path="D:/@library/framework/src/com/javapaul/event/ReadyEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381275722117" ignored="false" />
+    <file path="/ReadyEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381275721702" ignored="false" />
+    <file path="/IBook.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381276959613" ignored="false" />
+    <file path="/__dummy.js" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381277769846" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/data/LoadDataEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381279990075" ignored="false" />
+    <file path="/LoadDataEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280079653" ignored="false" />
+    <file path="$PROJECT_DIR$/../Book/src/com/javapaul/book/data/CompleteLoadDataEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280080694" ignored="false" />
+    <file path="/CompleteLoadDataEvent.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381280055304" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +62,7 @@
     <disable_hints />
   </component>
   <component name="DebuggerManager">
-    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
       <breakpoint>
         <option name="NOTIFY_CAUGHT" value="true" />
@@ -73,7 +97,7 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
     <breakpoint_rules />
     <ui_properties />
   </component>
@@ -82,7 +106,19 @@
     <favorites_list name="test" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="Data.as" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/load/Data.as">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.024602026">
+              <folding>
+                <element signature="e#33#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -101,21 +137,21 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/build.xml" />
-        <option value="$PROJECT_DIR$/src/com/javapaul/test/load/Data.as" />
         <option value="$PROJECT_DIR$/src/Test.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/test/IController.as" />
-        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/src/Launcher.as" />
         <option value="$PROJECT_DIR$/src/com/javapaul/test/model/Test.as" />
+        <option value="$PROJECT_DIR$/config.xml" />
         <option value="$PROJECT_DIR$/src/com/javapaul/test/Controller.as" />
+        <option value="$PROJECT_DIR$/src/com/javapaul/test/load/Data.as" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="744" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -131,6 +167,11 @@
   </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectStructureProblems">
+    <ignored-problems>
+      <problem id="library-invalid-classes-path(library:project:src)" />
+    </ignored-problems>
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -151,6 +192,76 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javapaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="javapaul" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="chronometer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -360,14 +471,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="GoToFile.includeJavaFiles" value="false" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.lastSelected" value="reference.settings.ide.settings.uml" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.xml" />
+    <property name="last_opened_file_path" value="D:/@library/framework" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -623,31 +734,31 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="0" />
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.4939394" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.6905983" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.30940172" sideWeight="0.45454547" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24967825" sideWeight="0.69316596" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.30683404" sideWeight="0.45454547" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.54015154" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19469696" sideWeight="0.4051282" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.4969697" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19469696" sideWeight="0.52478635" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19469696" sideWeight="0.6905983" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16537966" sideWeight="0.69316596" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33054394" sideWeight="0.4969697" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
@@ -772,11 +883,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../framework/src/com/javapaul/load/LoadXML.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="uml://MODULES/mdl-test">
       <provider selected="true" editor-type-id="UmlEditorProvider">
         <state>
@@ -803,35 +909,36 @@
     </entry>
     <entry file="jar://C:/Program Files (x86)/Adobe/Adobe Flash Builder 4.6/sdks/4.6.0/frameworks/libs/player/11.1/playerglobal.swc!/library.swf">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="901" column="25" selection-start="39411" selection-end="39411" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="901" column="25" selection-start="39411" selection-end="39411" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavascriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/ECMAScript.js2">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="25" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.33333334">
-          <folding />
-        </state>
+        <state line="25" column="25" selection-start="1110" selection-end="1110" vertical-scroll-proportion="0.33333334" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/IController.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="4" selection-start="245" selection-end="245" vertical-scroll-proportion="0.12164579">
+        <state line="10" column="4" selection-start="245" selection-end="245" vertical-scroll-proportion="0.12164579" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/model/Test.as">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="40" column="74" selection-start="892" selection-end="892" vertical-scroll-proportion="0.75468975">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="56" selection-start="2068" selection-end="2068" vertical-scroll-proportion="0.0">
+        <state line="51" column="29" selection-start="2303" selection-end="2303" vertical-scroll-proportion="0.89171976">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/Controller.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="40" selection-start="770" selection-end="770" vertical-scroll-proportion="1.0449735">
+        <state line="24" column="29" selection-start="638" selection-end="638" vertical-scroll-proportion="0.27813163">
           <folding>
             <element signature="e#28#68#0" expanded="true" />
           </folding>
@@ -840,23 +947,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Launcher.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="42" selection-start="342" selection-end="342" vertical-scroll-proportion="0.37037036">
+        <state line="15" column="46" selection-start="360" selection-end="360" vertical-scroll-proportion="0.54140127">
           <folding>
             <element signature="e#11#51#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/model/Test.as">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="33" selection-start="923" selection-end="923" vertical-scroll-proportion="1.0449735">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/javapaul/test/load/Data.as">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="53" selection-start="1498" selection-end="1498" vertical-scroll-proportion="0.95502645">
+        <state line="1" column="0" selection-start="33" selection-end="33" vertical-scroll-proportion="0.024602026">
           <folding>
             <element signature="e#33#73#0" expanded="true" />
           </folding>
