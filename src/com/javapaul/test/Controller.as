@@ -18,8 +18,6 @@ public class Controller implements IController{
 
         testVector = data.test;
         testVector.sort(com.javapaul.util.ArrayTools.shuffleVector);
-
-
         getQuestion();
     }
 

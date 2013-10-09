@@ -9,5 +9,6 @@ package com.javapaul.test {
 public interface IController {
     function getQuestion():void;
 
+
 }
 }

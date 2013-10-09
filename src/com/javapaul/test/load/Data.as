@@ -1,4 +1,5 @@
 package com.javapaul.test.load {
+
 import com.javapaul.event.CompleteEvent;
 import com.javapaul.load.LoadXML;
 import com.javapaul.load.LoadXMLEvent;
@@ -48,7 +49,7 @@ public class Data extends EventDispatcher{
     }
 
     private function run():void {
-        this.dispatchEvent(new CompleteEvent(CompleteEvent.COMPLETE, true));
+        this.dispatchEvent(new com.javapaul.event.CompleteEvent(CompleteEvent.COMPLETE, true));
     }
 }
 }
