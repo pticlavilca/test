@@ -15,6 +15,7 @@ public class Launcher extends Sprite {
     }
 
     private function handlerComplete(event:CompleteEvent):void {
+        trace("work it");
 
     }
 }
