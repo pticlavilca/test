@@ -27,9 +27,6 @@ public class Controller implements IController{
             if(object.isActivate == false){
                 trace(object.question);
             }
-
-
-
         }
     }
 }
