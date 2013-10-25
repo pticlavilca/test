@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b916571-310e-4bb3-8df4-1a220acfc163" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Launcher.as" afterPath="$PROJECT_DIR$/src/Launcher.as" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1382732227587" ignored="false" />
+    <file path="/Dummy.txt" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1382732269067" ignored="false" />
     <file path="/fragment.js2" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1382125670041" ignored="false" />
     <file path="/Test.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381177603126" ignored="false" />
     <file path="/Data.as" changelist="3b916571-310e-4bb3-8df4-1a220acfc163" time="1381330353466" ignored="false" />
@@ -668,7 +667,11 @@
       <created>1382732231455</created>
       <updated>1382732231456</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modify">
+      <created>1382732273959</created>
+      <updated>1382732273959</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
